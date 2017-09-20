@@ -1,0 +1,144 @@
+2x-purchase-20170920.txt
+Created Wed Sep 20 08:48:25 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
+Wi-Fi - Includes Special Offers
+
+
+Features
+========
+o All-new design is thinner and lighter, and now available in
+  your choice of black or white
+o Easy on your eyes—touchscreen display reads like real paper
+o No screen glare, even in bright sunlight, unlike tablets
+o Single battery charge lasts weeks, not hours
+o Get lost in your story with no alerts or notifications
+o Holds thousands of books—choose from new releases and bestsellers,
+  or from over a million titles at $2.99 or less
+o Prime members read free with unlimited access to over a thousand titles
+o Try Kindle Unlimited free for 30 days—includes over 1 million titles
+
+
+Wed Sep 20 08:48:25 AKDT 2017
+=============================
+Got offer for Kindle from amazon for $39.99 (down from $79.99).
+
+Given I've been thinking of purchasing a couple new Kindles I
+purchased 2x $39.99 = $79.98.  i.e. About 1/2 off.
+
+Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
+Wi-Fi - Includes Special Offers
+
+Color: black | white (got black)
+
+Order code: READER50 (for $39.99 sale price)
+
+1. At Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
+   Wi-Fi - Includes Special Offers page.
+
+   Could only purchase 1x for $39.99:
+     Your Device Order
+     Amazon is unable to support promotional discounts for bulk
+     device orders.  However, if you would like to purchase
+     2 or more units, please contact our Business and Education
+     team to learn about availability and possible discounts.
+     To learn more about bulk orders, visit our Business and
+     Education Sales page.
+
+   Given above only purchased one for $39.99.
+
+click Add to Cart
+
+2. At Add to your Kindle order popup:
+   Kindle Protection Plan
+   provided by SquareTrade
+   2-Year Protection Plan plus Accident Protection for Kindle
+   (8th Generation) (delivered via e-mail)
+
+     Price: $9.99 (down from $11.99)
+     Pay now, plan starts when device is delivered
+     Your Protection Plan will be delivered via email
+     Receive a replacement device in 2 to 3 days
+     Make up to 3 claims during the term of your warranty
+     Cancel anytime, full refund in first 90 days
+     No deductibles or shipping fees
+
+click No Thanks   <=== Want 3-year plan
+
+
+3. At Shopping Cart
+   Added:
+     3-Year Protection Plan plus Accident Protection
+     for Kindle (8th Generation) (delivered via e-mail)
+     by SquareTrade
+
+   price: $12.99 & FREE Shipping
+     Product Features
+     o Your Protection Plan will be delivered
+       via email as soon as the device ships
+     o Only Compatible with Kindle (8th Generation, 2016 release)
+       purchased within the last 30 days
+     o Your card will be charged immediately, plan starts when
+       device is delivered
+     o Receive a replacement device 2 to 3 days after
+       you make a valid claim
+     o Make up to 3 claims during the term of your warranty
+     o Cancel anytime, full refund in first 90 days
+     o Fully transferable with gifts
+     o No deductibles or shipping fees
+
+  Qty: 1
+  $12.99 + Free Shipping 
+  In Stock. Sold by SquareTrade, Inc.
+
+  click Add to Cart
+
+  --www.amazon.com/3-Year-Protection-Accident-Generation-delivered/dp/B01DWXWX56/ref=sr_1_11?ie=UTF8&qid=1505928400&sr=8-11&keywords=3-year+protection+plan+plus+accident+protection
+
+  ===> 2x-purchase-cart-20170920.pdf
+
+4. At Shopping Cart
+click Proceed to checkout
+
+5. At amazon login sign in.
+
+6. At Checkout page observe:
+
+Under payment method, "Add a gift card or promotion code",
+enter "READER50" to drop Kindle price from $79.99 to 39.99
+
+click Apply
+
+Items and Shipping:
+Review items and shipping
+ Prime Card
+Get a $70 Amazon.com Gift Card instantly
+upon approval for the Amazon Prime Rewards Visa Card. Apply now
+Estimated delivery: Sept. 26, 2017 - Oct. 2, 2017
+Items shipped from Amazon.com
+Kindle E-reader - Black, 6&quot; Glare-Free Touchscreen Display, Wi-Fi -  Includes Special Offers
+Kindle E-reader - Black, 6" Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers
+
+
+Order summary:
+Items (2):	$92.98
+Shipping & handling:	$0.00
+Total before tax:	$92.98
+Estimated tax to be collected:*	$0.00
+Order total:	$92.98
+
+
+Links
+=====
+3-Year Protection Plan plus Accident Protection for Kindle (8th Generation) (delivered via e-mail)
+SquareTrade
+price: $12.99 & FREE Shipping
+https://www.amazon.com/3-Year-Protection-Accident-Generation-delivered/dp/B01DWXWX56/ref=sr_1_11?ie=UTF8&qid=1505928400&sr=8-11&keywords=3-year+protection+plan+plus+accident+protection
+
+Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
+Wi-Fi - Includes Special Offers
+https://www.amazon.com/dp/B00ZV9PXP2
+

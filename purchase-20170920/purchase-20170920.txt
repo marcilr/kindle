@@ -26,9 +26,6 @@ Wed Sep 20 08:48:25 AKDT 2017
 =============================
 Got offer for Kindle from amazon for $39.99 (down from $79.99).
 
-Given I've been thinking of purchasing a couple new Kindles I
-purchased 2x $39.99 = $79.98.  i.e. About 1/2 off.
-
 Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
 Wi-Fi - Includes Special Offers
 
@@ -113,22 +110,31 @@ enter "READER50" to drop Kindle price from $79.99 to 39.99
 click Apply
 
 Items and Shipping:
-Review items and shipping
- Prime Card
-Get a $70 Amazon.com Gift Card instantly
-upon approval for the Amazon Prime Rewards Visa Card. Apply now
-Estimated delivery: Sept. 26, 2017 - Oct. 2, 2017
-Items shipped from Amazon.com
-Kindle E-reader - Black, 6&quot; Glare-Free Touchscreen Display, Wi-Fi -  Includes Special Offers
-Kindle E-reader - Black, 6" Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers
+  Kindle E-reader - Black,
+    6" Glare-Free Touchscreen Display, Wi-Fi - $39.99
+  SquareTrade 3-Year Insurance               - $12.99
+                                    Shipping -   Free
+                                    -----------------
+                                      Total:   $52.98
+
+click Submit
 
 
-Order summary:
-Items (2):	$92.98
-Shipping & handling:	$0.00
-Total before tax:	$92.98
-Estimated tax to be collected:*	$0.00
-Order total:	$92.98
+7. At Thank you, your order has been placed.
+
+   An email confirmation has been sent to you.
+
+   Order Number: ***
+   Kindle E-reader - Black, 6" Glar...  will be shipped to Raymond Marcil
+   Amazon.com 
+   Estimated delivery: Sept . 26, 2017 - Oct . 2, 2017
+ 
+   Order Number: ***
+   3-Year Protection Plan plus Acc...  will be shipped to Raymond Marcil
+   SquareTrade, Inc..
+   Estimated delivery: Sept . 27, 2017 - Oct . 4 , 2017
+
+   Looks good.
 
 
 Links
@@ -141,4 +147,3 @@ https://www.amazon.com/3-Year-Protection-Accident-Generation-delivered/dp/B01DWX
 Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
 Wi-Fi - Includes Special Offers
 https://www.amazon.com/dp/B00ZV9PXP2
-

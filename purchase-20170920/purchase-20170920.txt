@@ -4,8 +4,19 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 
-Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
-Wi-Fi - Includes Special Offers
+Kindle E-reader
+Black, 6" Glare-Free Touchscreen Display, Wi-Fi
+
+Display:    Amazon's 6" display technology with E Ink Pearl,
+            167 ppi, optimized font technology, 16-level gray scale
+Size:       6.3" x 4.5" x 0.36" (160 mm x 115 mm x 9.1 mm)
+Weight:     5.7 oz (161 g)
+Generation: 8th generation - 2016 release
+Storage:    4GB
+Wi-Fi:      802.11b, 802.11g, or 802.11n 
+Insurace:   Purchased 3-Year from SquareTrade
+In Box:     Kindle, USB 2.0 charging cable and Quick Start Guide
+--amazon.com
 
 
 Features
@@ -147,3 +158,8 @@ https://www.amazon.com/3-Year-Protection-Accident-Generation-delivered/dp/B01DWX
 Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
 Wi-Fi - Includes Special Offers
 https://www.amazon.com/dp/B00ZV9PXP2
+
+Technical Details
+Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
+Wi-Fi - Includes Special Offers
+https://www.amazon.com/gp/product/B00ZV9PXP2/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1

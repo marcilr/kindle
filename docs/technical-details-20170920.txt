@@ -1,0 +1,60 @@
+technical-details-20170920.txt
+Created Wed Sep 20 09:01:23 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Technical Details
+
+
+Display:               Amazon's 6" display technology with E Ink Pearl,
+                       167 ppi, optimized font technology, 16-level gray scale
+Size:                  6.3" x 4.5" x 0.36" (160 mm x 115 mm x 9.1 mm)
+Weight:                5.7 oz (161 g)
+                       Actual size and weight may vary by configuration
+                       and manufacturing process
+System Requirements:   None; fully wireless and doesn't require a computer
+                       to download content
+On-Device Storage:     4 GB; holds thousands of books
+Cloud Storage:         Free cloud storage for all Amazon content
+Battery Life:          A single charge lasts up to four weeks, based on a
+                       half hour of reading per day with wireless off.
+                       Battery life will vary based on wireless usage.
+Charge Time:           Fully charges in approximately 4 hours from a
+                       computer via USB cable
+Wi-Fi Connectivity:    Supports public and private Wi-Fi networks
+                       or hotspots that use the 802.11b, 802.11g, or 802.11n
+                       standard with support for WEP, WPA and WPA2 security
+                       using password authentication or Wi-Fi Protected Setup
+                       (WPS)
+Content Formats
+  Supported:           Kindle Format 8 (AZW3), Kindle (AZW), TXT, PDF,
+                       unprotected MOBI, PRC natively; HTML, DOC, DOCX, JPEG,
+                       GIF, PNG, BMP through conversion
+Accessibility
+  Features:            The VoiceView screen reader, available over Bluetooth
+                       audio, enables access to the vast majority of Kindle
+                       features.  Kindle also includes the ability to adjust
+                       font size, font face, line spacing and margins.  Learn
+                       more about Accessibility for Kindle
+
+Documentation:         Quick Start Guide (included in box); Kindle User Guide
+                       (pre-installed on device) [PDF].  Additional
+                       information in multiple languages available online.
+
+Warranty and Service:  1-year limited warranty and service included.
+                       Optional 1-year, 2-year, or 3-year Extended Warranty
+                       available for U.S. customers, sold separately.
+                       Use of Kindle is subject to the terms found here.
+
+Included in the Box:   Kindle, USB 2.0 charging cable and Quick Start Guide
+
+Generation:            8th generation - 2016 release
+--www.amazon.com/dp/B00ZV9PXP2#tech
+
+
+Links
+=====
+Technical Details
+Kindle E-reader - Black, 6" Glare-Free Touchscreen Display,
+Wi-Fi - Includes Special Offers
+https://www.amazon.com/dp/B00ZV9PXP2#tech

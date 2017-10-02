@@ -5,7 +5,16 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Kindle
 
+
+
 From box:
+  Kindle 8th generation
+  USB charging cable
+  built-in rechargable battery
+  WiFi
+  4GB
+  daylight readable
+  touch display
   UPC: 848719083774
   DSN: G000K90573440SW9
 
@@ -18,3 +27,9 @@ New kindle arrived today via USPS.
 Wed Sep 20 08:48:25 AKDT 2017
 =============================
 Ordered Kindle from amazon for $39.99 (down from $79.99).
+
+
+Links
+=====
+From box:
+http://www.amazon.com/devicesupport
